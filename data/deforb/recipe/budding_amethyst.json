@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "category":"building",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "minecraft:budding_amethyst",
+	"count":1
+  }
+}

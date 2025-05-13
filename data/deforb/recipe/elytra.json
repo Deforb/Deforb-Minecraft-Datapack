@@ -1,0 +1,27 @@
+{
+  "type": "crafting_shaped",
+  "category":"equipment",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": {
+      "item":"minecraft:feather"
+    },
+    "B": {
+      "item":"minecraft:end_crystal"
+    },
+    "C": {
+      "item":"minecraft:elytra"
+    },
+    "D": {
+      "item":"minecraft:saddle"
+    }   
+  },
+  "result": {
+    "id":"minecraft:elytra",
+    "count":2
+  }
+}
