@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:carved_pumpkin",
+    "minecraft:melon",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom"
+  ]
+}
