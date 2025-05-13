@@ -3,25 +3,22 @@
   "category":"equipment",
   "pattern": [
     "ABA",
-    "ACA",
-    "ADA"
+    "BCB",
+    " B "
   ],
   "key": {
     "A": {
-      "item":"minecraft:feather"
+      "item":"minecraft:shulker_shell"
     },
     "B": {
-      "item":"minecraft:end_crystal"
+      "item":"minecraft:phantom_membrane"
     },
     "C": {
-      "item":"minecraft:elytra"
-    },
-    "D": {
-      "item":"minecraft:saddle"
-    }   
+      "item":"minecraft:leather"
+    }
   },
   "result": {
     "id":"minecraft:elytra",
-    "count":2
+    "count":1
   }
 }

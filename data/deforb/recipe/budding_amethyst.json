@@ -1,6 +1,6 @@
 {
   "type": "crafting_shaped",
-  "category":"building",
+  "category": "building",
   "pattern": [
     "AAA",
     "AAA",
@@ -13,6 +13,6 @@
   },
   "result": {
     "id": "minecraft:budding_amethyst",
-	"count":1
+    "count": 1
   }
 }

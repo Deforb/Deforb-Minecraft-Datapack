@@ -1,24 +1,24 @@
 {
-    "type": "crafting_shaped",
-    "category":"building",
-    "pattern": [
-        "ACA",
-        "CBC",
-        "ACA"
-    ],
-    "key": {
-        "A":{
-            "item": "minecraft:hay_block"
-        },
-        "B":{
-            "item": "minecraft:sponge"
-        },
-        "C":{
-            "item": "minecraft:prismarine_crystals"
-        }
+  "type": "crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "ACA",
+    "CBC",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:hay_block"
     },
-    "result": {
-        "item": "minecraft:sponge",
-	"count":2
+    "B": {
+      "item": "minecraft:sponge"
+    },
+    "C": {
+      "item": "minecraft:prismarine_crystals"
     }
+  },
+  "result": {
+    "id": "minecraft:sponge",
+    "count": 2
+  }
 }
